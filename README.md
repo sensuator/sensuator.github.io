@@ -2,6 +2,10 @@
 
 Hello, this is temporary site set up for viewing videos related to the Sensuator paper.
 
+S5:
+
+{% include youtubePlayer.html id="M-SOqRUDzxo" %}
+
 S1:
 
 {% include youtubePlayer.html id="IgmoyBjrI5c" %}
@@ -17,9 +21,4 @@ S3:
 S4:
 
 {% include youtubePlayer.html id="msnmKa4sEuE" %}
-
-S5:
-
-{% include youtubePlayer.html id="M-SOqRUDzxo" %}
-
 
