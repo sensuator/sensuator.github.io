@@ -1,8 +1,10 @@
-# Sensuator Videos
+# Sensuator: A Hybrid Sensor–Actuator Approach to Soft Robotic Proprioception Using Recurrent Neural Networks
 
 Hello, this is site set up for viewing videos and downloading supplementary materials related to the Sensuator paper.
 
-Paper 📝: [https://www.mdpi.com/2076-0825/10/2/30](https://www.mdpi.com/2076-0825/10/2/30)
+Full Paper 📝: [https://www.mdpi.com/2076-0825/10/2/30](https://www.mdpi.com/2076-0825/10/2/30)
+
+
 
 S6: [MATLAB Tutorial](SensuatorTutorial.html) - [MATLAB LiveScripts](https://github.com/sensuator/sensuator.github.io/tree/main/Tutorial) (requires Deep Learning Toolbox)
 
